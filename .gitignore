@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files
+outputs/
+*.csv
+
+# Data files
+*.json
+
+# Notebook cache
+.ipynb_checkpoints/
